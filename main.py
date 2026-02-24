@@ -1,4 +1,4 @@
-# Simple Compiler Design Toolkit
+
 
 # -------- LEXICAL ANALYZER --------
 def lexical_analyzer():
