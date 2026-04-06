@@ -12,10 +12,10 @@ Features
 -  Left Recursion Removal
 -  Parsing Table Generation
   
-  ** Requirement**
+  Requirement
 - Python 3.x
 - VS Code or any Python IDE
 
-** How to Run**
+ How to Run <br>
 bash
 python main.py
