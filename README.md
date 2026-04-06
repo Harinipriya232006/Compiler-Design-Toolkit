@@ -1,5 +1,5 @@
-**NAME: HARINIPRIYA M**
-**Compiler Design Toolkit in Python**
+**NAME: HARINIPRIYA M** <br>
+**Compiler Design Toolkit in Python** <br>
 **Reg No: RA2311003050350**
 
 Project Description: A comprehensive implementation of fundamental Compiler Design algorithms using Python.  
