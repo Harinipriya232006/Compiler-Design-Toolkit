@@ -1,6 +1,6 @@
 <h2>NAME: HARINIPRIYA M </h2> <br>
 <h2>Compiler Design Toolkit in Python</h2> <br>
-<h2></h2>Reg No: RA2311003050350</h2>
+<h2>Reg No: RA2311003050350</h2>
 
 Project Description: A comprehensive implementation of fundamental Compiler Design algorithms using Python.  
 This toolkit demonstrates the core phases of a compiler including lexical analysis, automata construction, grammar processing, and parsing techniques.
@@ -12,10 +12,10 @@ Features
 -  Left Recursion Removal
 -  Parsing Table Generation
   
-   Requirement
+  ** Requirement**
 - Python 3.x
 - VS Code or any Python IDE
 
- How to Run
+** How to Run**
 bash
 python main.py
